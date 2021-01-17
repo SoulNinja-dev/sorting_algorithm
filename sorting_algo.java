@@ -1,3 +1,5 @@
+package sorting_algorithms;
+
 import java.util.Arrays;
 
 public class sorting_algo {
